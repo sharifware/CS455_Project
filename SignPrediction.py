@@ -11,7 +11,7 @@ from tensorflow.keras.callbacks import CSVLogger
 from tensorflow.keras.utils import to_categorical
 
 w=56
-work_dir='data/traffic_signs'
+work_dir='sign_data/traffic_signs'
 npy_data_base='traffic_signs-data'
 npy_labels_base='traffic_signs-labels'
 classes=['Light','Stop']
