@@ -1,13 +1,13 @@
 # Import necessary modules from Keras
+import numpy as np
+import matplotlib.pyplot as plt
+
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.callbacks import EarlyStopping
 from tensorflow.keras.regularizers import l2
-import matplotlib.pyplot as plt
-import numpy as np
-import os
 
 # Define the model architecture
 model = Sequential()
