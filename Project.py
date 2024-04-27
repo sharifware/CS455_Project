@@ -1,3 +1,24 @@
+'''
+Road Lane Detection
+Created by: Andrew Zubyk
+Used for: CS455 Final Project
+
+Creates a CNN model with 5 layers
+Utilizes a binary model to determine if the image is a road lane or not
+From this utilizes train and validation data to train the model
+Finally the model is tested using the test data to determine the outputs
+
+Data implementation must be in a folder titled data
+Then in that split into a test, train, and valication folder
+Inside of each of those have a lane and not_lane folder
+
+These consist of the data utilized to test the model properlly
+
+After running the package_installer.py the file can be ran and CNN tested
+
+'''
+
+
 # Import necessary modules from Keras
 import numpy as np
 import matplotlib.pyplot as plt
