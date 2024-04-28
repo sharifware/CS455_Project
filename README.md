@@ -7,11 +7,11 @@ Requirements:
 
 To run this project, you need Python 3.6 or higher and the following packages:
 
-TensorFlow
-OpenCV
-NumPy
-Matplotlib
-PIL (Python Imaging Library)
+TensorFlow,
+OpenCV,
+NumPy,
+Matplotlib,
+PIL (Python Imaging Library),
 You can find the complete list of required packages in the requirements.txt file.
 
 Installation:
