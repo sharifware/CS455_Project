@@ -1,4 +1,21 @@
-import os, glob
+
+
+'''
+Road Lane Detection
+Created by: Muhammed-Sharif Adepetu
+Used for: CS455 Final Project
+
+Creates a CNN model to determine if an image is either a traffic sign or stoplight.
+it then trains a model
+Finally the model is tested using the test data to determine the outputs
+
+Data implementation must be in a folder titled sign_data
+Then in that split into a test, train, and valication folder
+Inside of each of those have a stop_sign and fraffic light folder
+
+These consist of the data utilized to test the model properlly
+
+'''import os, glob
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow
