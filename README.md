@@ -1,6 +1,4 @@
 CS-455 Final Project | Road Lane and Traffic Sign Detection
-
-Sharif Adepetu, Amanda Wills, Andrew Zubyk
 -------------------------------------------------------------
 
 Welcome to the Road Lane and Traffic Sign Detection project! This repository contains code for building and training Convolutional Neural Networks (CNNs) to detect road lanes and recognize traffic signs. The project combines traditional computer vision techniques with machine learning to provide a comprehensive solution for autonomous driving applications.
