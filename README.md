@@ -67,5 +67,3 @@ Contribution and Issues:
 Feel free to contribute to this project by creating a pull request or opening an issue if you encounter any problems. Your feedback and contributions are highly appreciated!
 
 Be sure to cite within your comments any use of external code regardless of the source's license.
-
-Note: Use of 3rd party developed source code (including code snippets borrowed from Stack Overflow) are properly cited in the code with a comment and/or other appropriate documentation as per the source's license.
